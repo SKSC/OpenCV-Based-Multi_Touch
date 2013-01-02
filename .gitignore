@@ -1,5 +1,9 @@
-*.swp
-*.swo
+#Vim temp files
+.*.sw[a-z]
+*.un~
+Session.vim
+.netrwhist
+
 # Compiled Object files
 *.slo
 *.lo
